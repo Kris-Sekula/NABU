@@ -1,6 +1,6 @@
 Created some PCBs for the USB adaptor, sources are in KiCad 6.0
 
-This adapter "intercepts" the RX  and TX signals that originally go to the RS422 circuti and "injects" the RX,TX from the USB to serial adapter... There is also option to "inject" alternative clock signal (as suggested by one of my viewers)...this should allow a real 115200 bps speeds.
+This adapter "intercepts" the RX  and TX signals that originally go to the RS422 circuit and "injects" the RX,TX from the USB to serial adapter... There is also option to "inject" alternative clock signal (as suggested by one of my viewers)...this should allow a real 115200 bps speeds.
 
 Components used:
 * PCB: you can use the sources to generate the gerbers or simply order from [PCBWay](https://www.pcbway.com/project/shareproject/NABU_native_USB_to_serial_adapter_4c1e523b.html)
