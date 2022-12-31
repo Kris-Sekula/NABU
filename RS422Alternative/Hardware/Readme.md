@@ -7,7 +7,7 @@ Components used:
 * 2x 20pin gold round pin headers, example [eBay](https://www.ebay.com/itm/391866775529)
 * DIP40 socket
 * USB-to-TTL serial adapter, example [Alliexpres](https://www.aliexpress.us/item/3256804658745564.html?)
-* (optional) 1.8432MHz Osciallator module, example [Digikey](https://www.digikey.com/en/products/detail/ecs-inc/ECS-2100A-018/21259)
+* (optional) 1.8432MHz Oscillator module, example [Digikey](https://www.digikey.com/en/products/detail/ecs-inc/ECS-2100A-018/21259)
 
 ![PCBs](https://github.com/Kris-Sekula/NABU/blob/main/RS422Alternative/Hardware/Pictures/PCBs.jpg)
 
